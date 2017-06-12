@@ -5,18 +5,8 @@
     "type": "git",
     "url": "https://github.com/housinghq/react-native-root-toast"
   },
-  "scripts": {
-    "build": "webpack",
-    "prepublish": "npm run build"
-  },
-  "devDependencies": {
-    "babel-core": "^6.24.0",
-    "babel-loader": "^6.4.1",
-    "babel-preset-react-native-stage-0": "^1.0.1",
-    "webpack": "^2.2.1"
-  },
   "license": "MIT",
-  "main": "./dist/index",
+  "main": "./lib/SiblingsManager.js",
   "description": "react native root sibling elements manager",
   "keywords": [
     "react-component",
