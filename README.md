@@ -1,3 +1,5 @@
+# Package no longer maintained. Use https://github.com/magicismight/react-native-root-siblings
+
 ### react-native-root-siblings
 ---
 
